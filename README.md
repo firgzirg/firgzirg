@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firgzirg
-- 👀 I’m interested in 3D-modeling and web-design
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in 3D-modeling and aircraft simulation research
+- 🌱 I’m currently learning Python Django
 - 📫 How to reach me: write me at wendystaller@gmail.com
 
 <!---
